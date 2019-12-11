@@ -1,5 +1,7 @@
 {
   "name": "AUTH-sys",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
